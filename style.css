@@ -1,0 +1,8 @@
+.inner {
+  padding: 20px;
+  margin: 5%;
+  border: solid rgb(176, 179, 30);
+}
+div {
+  border: dotted rgb(80, 191, 70);
+}
